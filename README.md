@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ItsMeJasperr
-- 👀 I’m interested in projcects
 - 🌱 I’m currently learning java
-- 📫 How to reach me ItsMeJasperr#3148
+- 💼 Working for StephanBeer
 
 <!---
 jjwngamer/jjwngamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
